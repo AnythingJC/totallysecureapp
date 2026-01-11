@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "momnet": "2.29.1",
-    "ua-parser-js": "0.7.29"
+    "ua-parser-js": "0.7.30"
   },
   "description": "SCS Examples to be cautious of... and protected by Checkmarx for...",
   "devDependencies": {
